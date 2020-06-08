@@ -1,10 +1,10 @@
 package service
 
 import (
-	"RocketmqExporter/constant"
-	"RocketmqExporter/model"
-	"RocketmqExporter/utils"
-	"RocketmqExporter/wrapper"
+	"github.com/mxlxm/RocketmqExporter/constant"
+	"github.com/mxlxm/RocketmqExporter/model"
+	"github.com/mxlxm/RocketmqExporter/utils"
+	"github.com/mxlxm/RocketmqExporter/wrapper"
 	//"fmt"
 	"strings"
 )

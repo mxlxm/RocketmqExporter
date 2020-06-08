@@ -1,7 +1,7 @@
 package main
 
 import (
-	"RocketmqExporter/constant"
+	"github.com/mxlxm/RocketmqExporter/constant"
 	"fmt"
 	"github.com/go-kit/kit/log/level"
 	"github.com/prometheus/client_golang/prometheus"

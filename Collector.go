@@ -1,9 +1,9 @@
 package main
 
 import (
-	"RocketmqExporter/constant"
-	"RocketmqExporter/model"
-	"RocketmqExporter/service"
+	"github.com/mxlxm/RocketmqExporter/constant"
+	"github.com/mxlxm/RocketmqExporter/model"
+	"github.com/mxlxm/RocketmqExporter/service"
 	"github.com/prometheus/client_golang/prometheus"
 	"strconv"
 )

@@ -1,8 +1,8 @@
 package wrapper
 
 import (
-	"RocketmqExporter/model"
-	"RocketmqExporter/utils"
+	"github.com/mxlxm/RocketmqExporter/model"
+	"github.com/mxlxm/RocketmqExporter/utils"
 	//"bytes"
 	"encoding/json"
 	"fmt"
